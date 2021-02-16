@@ -21,7 +21,7 @@ namespace zadacha2
                 Console.WriteLine($"Амплитуда силы тока= {I}А");
                 W = (L * I * I) / 2;
                 Console.WriteLine($"Полная энергия= {W}Дж");
-
+                Console.WriteLine("Я лох");
 
 
             }
